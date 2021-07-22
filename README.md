@@ -1,0 +1,1 @@
+In this repository we test different alternative to Pareto-dominance based sorting for Genetic Algorithms (GA). 
